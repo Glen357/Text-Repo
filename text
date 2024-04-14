@@ -1,0 +1,20 @@
+************************ TExt File about Repos *********************
+
+I have created this file to outline a few things regarding My git hub Profile and the repos it contains.
+
+I have added multiple public repos For my Tutors / Student aides to view my Ability to use GitHub repositories and the code that I have added
+
+This was not my first GitHub Profile, but with all the Collaborations and their unchangeable Lock Statuses I decided to start again with my ow account that is not linked to my previous training provider.
+
+There are 2 repos "pythonProject1", and "learning-at-16", which contain code that directly relates to activities I completed in the learning modules of the course.
+
+outside of these there is my software assignment, written in Python. This repo "Software-assignment-IT5016D_Assessment-2_20240837", contains a Help Desk ticketing system.
+I did have some issues writing this program, but was able to overcome them a few ways. Initially I wrote some code and was having serious trouble making it work, or do much of anything. I then tried to find some information on the functions I was using but still had trouble with it, so I added my issues to Chat Gpt. When I received the recommended changes I realized My document was way off. at this point I deleted my code. I then spoke with my Step Father who is in DevOps  and bounced a few Ideas about how to achieve the desired outcome. He recommended watching some more tutorials and to  look further into the course modules. I spent a couple of days reading and watching Programming with Mosh tutorials and gave my program another shot. I brought it back to basics, created a ticket class, then just started adding functions and trouble shooting each of these along the way I used w3schools often during this. once I got my code working mostly I did have a couple of problems (the system would not close tickets), that I shared With Asra, and was able to figure out part of the solution before I heard back from Asra (Added self.status"Closed" to my resolve password function). Asra pointed out the same issue with my REopen ticket function where I added an elif for new_description and again added Self.status = "closed".
+
+When I thought everything was done I asked for a review from Asra. I was told that the code lacked a respond to ticket option which I thought I had not completed properly. This was an easy fix as I realized straight away as I could just reuse my reopen ticket functions code with minor adjustments.
+
+There are other Repos which I have written in HTML and JavaScript with some CSS stylings. The first 2 pages I ever created near the end of 2023 involved adding images, checkboxes, onclick functions and grouping things with styles like "grid". 
+
+I again have spent some of my own time on w3schools website where I found their TryitEditor - i thought this was cool, as it gave me a bit of knowledge about creating an image parralax so that I could have background images that could change AND be scrolled over as you work your way down the page.
+
+I also created my "New Repo", repository where I have started building a page using Vite. I think this is cool as it gives you a basic structure of a React.JS application. 
